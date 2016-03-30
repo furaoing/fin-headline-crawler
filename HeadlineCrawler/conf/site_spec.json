@@ -1,0 +1,160 @@
+
+{
+    "1":
+    {
+        "source": "中国财经报网",
+        "url": "http://www.cfen.com.cn/",
+        "charset": "gbk",
+        "type": "xpath",
+        "xpath1": "/html/body/div[@class='body']/div[@class='main'][1]/div[1]/div[2]/a[@class='ti12_11']",
+        "xpath2": "",
+        "pattern1": ""
+    },
+    "2":
+    {
+        "source": "经济参考网",
+        "url": "http://jjckb.xinhuanet.com/",
+        "charset": "utf8",
+        "type": "regex",
+        "xpath1": "",
+        "xpath2": "",
+        "pattern1": "<ul id=\"gd_content\"><a href=\"(.+?)\" target=\"_blank\"><li>(.+?)</li></a>"
+    },
+    "3":
+    {
+        "source": "财新网",
+        "url": "http://www.caixin.com/",
+        "charset": "utf8",
+        "type": "xpath",
+        "xpath1": "/html/body[@class='gray']/div[@class='homepageCon']/div[@class='topNews']/div[@class='mi']/div[@class='demolNews']/dl[1]/dt/a",
+        "xpath2": "",
+        "pattern1": ""
+    },
+    "5":
+    {
+        "source": "证券时报网",
+        "url": "http://www.stcn.com/",
+        "charset": "utf8",
+        "type": "xpath",
+        "xpath1": "/html/body/div[@class='content clearfix']/div[@class='box1']/div[@class='box1_left']/div[@class='hotNews']/div[@class='main_news']/h2/a[1]",
+        "xpath2": "",
+        "pattern1": ""
+    },
+    "6":
+    {
+        "source": "财经网",
+        "url": "http://www.caijing.com.cn/",
+        "charset": "utf8",
+        "type": "xpath",
+        "xpath1": "/html/body/div[@class='center']/div[@class='content']/div[@class='firstview']/div[@id='area_index_jrtt_2011']/div[@class='jrtt_w']/h4/a",
+        "xpath2": "",
+        "pattern1": ""
+    },
+    "7":
+    {
+        "source": "中证网",
+        "url": "http://www.cs.com.cn/",
+        "charset": "gbk",
+        "type": "xpath",
+        "xpath1": "/html/body/div[@class='box970 container']/div[@class='box_con_l']/div[@class='big_news mar_b15']/h2[@class='h_bignews'][1]/a",
+        "xpath2": "",
+        "pattern1": ""
+    },
+    "8":
+    {
+        "source": "和讯网",
+        "url": "http://www.hexun.com/",
+        "charset": "gbk",
+        "type": "xpath",
+        "xpath1": "/html/body/div[@id='ad-beiban']/div[@id='main']/div[@class='content']/div[@class='con-lay clearfix']/div[@class='fl con-let']/div[@class='clearfix']/div[@class='con-box w305']/div[@id='con_ystab_1']/ul[@class='news-list'][1]/li[@class='t']/h3/a",
+        "xpath2": "",
+        "pattern1": ""
+    },
+    "9":
+    {
+        "source": "21经济网",
+        "url": "http://www.21jingji.com/",
+        "charset": "utf8",
+        "type": "xpath",
+        "xpath1": "/html/body/div[@class='wrapcnt']/div[@class='content layout1']/div[@class='colL']/div[@class='Selections'][1]/ul[@class='HTitlePicSum']/li/a[@class='titles']",
+        "xpath2": "",
+        "pattern1": ""
+    },
+    "12":
+    {
+        "source": "华尔街见闻",
+        "url": "http://wallstreetcn.com/",
+        "charset": "utf8",
+        "type": "regex",
+        "xpath1": "",
+        "xpath2": "",
+        "pattern1": "<a class=\"top2 cover-img\" href=\"(.+?)\" target=\"_blank\">.+?<h3 class=\"title\">(.+?)</h3>"
+    },
+    "13":
+    {
+        "source": "凤凰财经",
+        "url": "http://finance.ifeng.com/",
+        "charset": "utf8",
+        "type": "xpath",
+        "xpath1": "/html/body/div[@class='ip_col']/div[@class='col01 clearfix']/div[@class='col01L']/div[@class='box_01']/div/div[@class='box_hot01 clearfix'][1]/h2/a",
+        "xpath2": "",
+        "pattern1": ""
+    },
+    "15":
+    {
+        "source": "新浪财经",
+        "url": "http://finance.sina.com.cn/",
+        "charset": "utf8",
+        "type": "xpath",
+        "xpath1": "/html/body/div[@class='main']/div[@class='m-part m-part1 udv-clearfix']/div[@id='directAd_huaxia']/div[@id='impNews1']/div[@id='fin_tabs0_c0']/div[@id='blk_hdline_01']/h3[1]/a[1]",
+        "xpath2": "",
+        "pattern1": ""
+    },
+    "18":
+    {
+        "source": "FT中文网",
+        "url": "http://www.ftchinese.com/",
+        "charset": "utf8",
+        "type": "regex",
+        "xpath1": "",
+        "xpath2": "",
+        "pattern1": "<a class=\"nowrap-on-wide c-headline\" target=_blank href=\"(.+?)\">(.+?)</a>"
+    },
+    "19": {
+        "source": "东方财富网",
+        "url": "http://www.eastmoney.com/",
+        "charset": "gbk",
+        "type": "xpath",
+        "xpath1": "/html/body/div[@class='wrap mt8']/div[@class='layout340'][1]/div[@class='tabCon']/div[@class='content']/div[@class='bulllink headlines']/h1/a[1]",
+        "xpath2": "",
+        "pattern1": ""
+    },
+    "20":
+    {
+        "source": "中金在线",
+        "url": "http://www.cnfol.com/",
+        "charset": "utf8",
+        "type": "xpath",
+        "xpath1": "/html/body/div[@class='MainWrp Cf']/div[@class='LeftWrp Mt15 Fl']/dl[@id='M1Tab']/dd[1]/strong[@class='PubStrong2']/a[1]",
+        "xpath2": "",
+        "pattern1": ""
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
