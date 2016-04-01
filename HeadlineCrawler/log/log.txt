@@ -22,3 +22,221 @@
   File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 24, in crawl_link_page_xpath
     raise ERROR.MatchError
 
+2016-04-01 13:46:56 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 13:46:56 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    headline = spider.crawl_link_page_xpath(site, headline)
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 24, in crawl_link_page_xpath
+    raise ERROR.MatchError
+
+2016-04-01 13:48:22 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 13:48:22 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    headline = spider.crawl_link_page_xpath(site, headline)
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 24, in crawl_link_page_xpath
+    raise ERROR.MatchError
+
+2016-04-01 13:49:42 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 13:49:42 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    headline = spider.crawl_link_page_xpath(site, headline)
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 24, in crawl_link_page_xpath
+    raise ERROR.MatchError
+
+2016-04-01 13:51:15 CRITICAL/root, Undefined Exception: id - 1
+2016-04-01 13:51:15 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    headline = spider.crawl_link_page_xpath(site, headline)
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 21, in crawl_link_page_xpath
+    html = self.baseCrawler.html_download(site["url"], site["charset"])
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\lib\common.py", line 18, in html_download
+    r = requests.get(url, timeout=Setting.REQUEST_TIMEOUT)
+  File "D:\Anaconda3\lib\site-packages\requests\api.py", line 59, in get
+    return request('get', url, **kwargs)
+  File "D:\Anaconda3\lib\site-packages\requests\api.py", line 48, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Anaconda3\lib\site-packages\requests\sessions.py", line 451, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Anaconda3\lib\site-packages\requests\sessions.py", line 594, in send
+    r.content
+  File "D:\Anaconda3\lib\site-packages\requests\models.py", line 707, in content
+    self._content = bytes().join(self.iter_content(CONTENT_CHUNK_SIZE)) or bytes()
+  File "D:\Anaconda3\lib\site-packages\requests\models.py", line 645, in generate
+    raise ConnectionError(e)
+
+2016-04-01 13:52:45 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 13:52:45 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    headline = spider.crawl_link_page_xpath(site, headline)
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 24, in crawl_link_page_xpath
+    raise ERROR.MatchError
+
+2016-04-01 13:54:10 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 13:54:10 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    headline = spider.crawl_link_page_xpath(site, headline)
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 24, in crawl_link_page_xpath
+    raise ERROR.MatchError
+
+2016-04-01 13:55:35 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 13:55:35 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    headline = spider.crawl_link_page_xpath(site, headline)
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 24, in crawl_link_page_xpath
+    raise ERROR.MatchError
+
+2016-04-01 13:56:58 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 13:56:58 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    headline = spider.crawl_link_page_xpath(site, headline)
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 24, in crawl_link_page_xpath
+    raise ERROR.MatchError
+
+2016-04-01 13:57:12 CRITICAL/root, Undefined Exception: id - 9
+2016-04-01 13:57:12 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    headline = spider.crawl_link_page_xpath(site, headline)
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 21, in crawl_link_page_xpath
+    html = self.baseCrawler.html_download(site["url"], site["charset"])
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\lib\common.py", line 18, in html_download
+    r = requests.get(url, timeout=Setting.REQUEST_TIMEOUT)
+  File "D:\Anaconda3\lib\site-packages\requests\api.py", line 59, in get
+    return request('get', url, **kwargs)
+  File "D:\Anaconda3\lib\site-packages\requests\api.py", line 48, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Anaconda3\lib\site-packages\requests\sessions.py", line 451, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Anaconda3\lib\site-packages\requests\sessions.py", line 557, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Anaconda3\lib\site-packages\requests\adapters.py", line 422, in send
+    raise ReadTimeout(e, request=request)
+
+2016-04-01 13:58:26 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 13:58:26 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    headline = spider.crawl_link_page_xpath(site, headline)
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 24, in crawl_link_page_xpath
+    raise ERROR.MatchError
+
+2016-04-01 13:59:50 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 13:59:50 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    headline = spider.crawl_link_page_xpath(site, headline)
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 24, in crawl_link_page_xpath
+    raise ERROR.MatchError
+
+2016-04-01 14:01:15 CRITICAL/root, Undefined Exception: id - 19
+2016-04-01 14:01:15 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    headline = spider.crawl_link_page_xpath(site, headline)
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 21, in crawl_link_page_xpath
+    html = self.baseCrawler.html_download(site["url"], site["charset"])
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\lib\common.py", line 18, in html_download
+    r = requests.get(url, timeout=Setting.REQUEST_TIMEOUT)
+  File "D:\Anaconda3\lib\site-packages\requests\api.py", line 59, in get
+    return request('get', url, **kwargs)
+  File "D:\Anaconda3\lib\site-packages\requests\api.py", line 48, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Anaconda3\lib\site-packages\requests\sessions.py", line 451, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Anaconda3\lib\site-packages\requests\sessions.py", line 557, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Anaconda3\lib\site-packages\requests\adapters.py", line 422, in send
+    raise ReadTimeout(e, request=request)
+
+2016-04-01 14:01:20 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 14:01:20 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    headline = spider.crawl_link_page_xpath(site, headline)
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 24, in crawl_link_page_xpath
+    raise ERROR.MatchError
+
+2016-04-01 14:02:40 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 14:02:40 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    headline = spider.crawl_link_page_regex(site, headline)
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 24, in crawl_link_page_xpath
+    raise ERROR.MatchError
+
+2016-04-01 14:04:16 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 14:04:16 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    if site["type"] == "regex":
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 24, in crawl_link_page_xpath
+    raise ERROR.MatchError
+
+2016-04-01 14:05:52 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 14:05:52 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    if site["type"] == "regex":
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 24, in crawl_link_page_xpath
+    raise ERROR.MatchError
+
+2016-04-01 14:07:24 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 14:07:24 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    if site["type"] == "regex":
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 24, in crawl_link_page_xpath
+    raise ERROR.MatchError
+
+2016-04-01 14:08:49 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 14:08:49 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    try:
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 24, in crawl_link_page_xpath
+    raise ERROR.MatchError
+
+2016-04-01 14:10:16 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 14:10:16 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    try:
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 24, in crawl_link_page_xpath
+    raise ERROR.MatchError
+
+2016-04-01 14:10:22 CRITICAL/root, Undefined Exception: id - 7
+2016-04-01 14:10:22 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    try:
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 21, in crawl_link_page_xpath
+    html = self.baseCrawler.html_download(site["url"], site["charset"])
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\lib\common.py", line 18, in html_download
+    r = requests.get(url, timeout=Setting.REQUEST_TIMEOUT)
+  File "D:\Anaconda3\lib\site-packages\requests\api.py", line 59, in get
+    return request('get', url, **kwargs)
+  File "D:\Anaconda3\lib\site-packages\requests\api.py", line 48, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Anaconda3\lib\site-packages\requests\sessions.py", line 451, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Anaconda3\lib\site-packages\requests\sessions.py", line 557, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Anaconda3\lib\site-packages\requests\adapters.py", line 422, in send
+    raise ReadTimeout(e, request=request)
+
+2016-04-01 14:11:52 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 14:11:52 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    if site["type"] == "regex":
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 24, in crawl_link_page_xpath
+    raise ERROR.MatchError
+
+2016-04-01 14:11:59 CRITICAL/root, Undefined Exception: id - 13
+2016-04-01 14:11:59 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    if site["type"] == "regex":
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 21, in crawl_link_page_xpath
+    html = self.baseCrawler.html_download(site["url"], site["charset"])
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\lib\common.py", line 18, in html_download
+    r = requests.get(url, timeout=Setting.REQUEST_TIMEOUT)
+  File "D:\Anaconda3\lib\site-packages\requests\api.py", line 59, in get
+    return request('get', url, **kwargs)
+  File "D:\Anaconda3\lib\site-packages\requests\api.py", line 48, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Anaconda3\lib\site-packages\requests\sessions.py", line 451, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Anaconda3\lib\site-packages\requests\sessions.py", line 557, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Anaconda3\lib\site-packages\requests\adapters.py", line 422, in send
+    raise ReadTimeout(e, request=request)
+
+2016-04-01 14:13:24 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 14:13:24 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    if site["type"] == "regex":
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 24, in crawl_link_page_xpath
+    raise ERROR.MatchError
+
+2016-04-01 14:14:53 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 14:14:53 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    if site["type"] == "regex":
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 24, in crawl_link_page_xpath
+    raise ERROR.MatchError
+
+2016-04-01 14:15:43 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 14:15:43 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 33, in crawl
+    headline = spider.crawl_link_page_xpath(site, headline)
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 24, in crawl_link_page_xpath
+    raise ERROR.MatchError
+
+2016-04-01 14:16:17 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 14:16:17 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    if site["type"] == "regex":
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 24, in crawl_link_page_xpath
+    raise ERROR.MatchError
+

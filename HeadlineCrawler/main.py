@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+from TaikorCommon.util.util import TimeFormater
+
 from HeadlineCrawler.spiders.baseSpider import spider
 from HeadlineCrawler.conf.loadSite import load_sites
 from HeadlineCrawler.lib.common import HeadLine
@@ -10,8 +12,9 @@ import traceback
 import logging
 import sys
 
-
 if __name__ == "__main__":
+
+    tt = TimeFormater("mysql")
 
     logging.basicConfig(
             filename=Setting.LOG_PATH,
@@ -28,7 +31,8 @@ if __name__ == "__main__":
                 headline = spider.crawl_link_page_regex(site, headline)
             else:
                 headline = spider.crawl_link_page_xpath(site, headline)
-            print(headline.title + "  source: " + headline.source)
+            console_msg = "%s %s; source: %s" % (tt.format_time(), headline.title, headline.source)
+            print(console_msg)
             return headline
         except ERROR.TimeoutError as e:
             logging.critical("Http Request Timeout: id - " + HeadlineSourceID)
