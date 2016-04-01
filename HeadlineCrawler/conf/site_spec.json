@@ -6,7 +6,7 @@
         "url": "http://www.cfen.com.cn/",
         "charset": "gbk",
         "type": "xpath",
-        "xpath1": "/html/body/div[@class='body']/div[@class='main'][1]/div[1]/div[2]/a[@class='ti12_11']",
+        "xpath1": "/htmlbody/div[@class='body']/div[@class='main'][1]/div[1]/div[2]/a[@class='ti12_11']",
         "xpath2": "",
         "pattern1": ""
     },

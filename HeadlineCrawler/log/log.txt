@@ -1,223 +1,24 @@
-2016-03-30 15:44:20 WARNING/root, 沪指涨2.77%再上3000  source: 新浪财经
-2016-03-30 15:44:20 WARNING/root, 金融监管机构改革提速 最快或于今夏推出  source: 凤凰财经
-2016-03-30 15:44:20 WARNING/root, 耶伦告诉全球市场：谁才是美联储老大  source: 华尔街见闻
-2016-03-30 15:44:20 WARNING/root, 多重利好刺激资金涌入 沪指收复3000点  source: 和讯网
-2016-03-30 15:44:20 WARNING/root, “货币战”真的休战了？  source: FT中文网
-2016-03-30 15:44:21 WARNING/root, 经济现企稳信号 工业企业利润结束下滑  source: 21经济网
-2016-03-30 15:44:21 WARNING/root, 国务院圈定今年重点工作部门分工 财政部牵头7项  source: 中国财经报网
-2016-03-30 15:44:21 WARNING/root, 融资租赁全国风险排查收官在即  source: 经济参考网
-2016-03-30 15:44:21 WARNING/root, 中证收评：多利好共振 沪指涨2.77%重返3000点  source: 中证网
-2016-03-30 15:44:21 WARNING/root, 二手房中介玩金融  source: 财新网
-2016-03-30 15:44:23 WARNING/root, 五大利好促A股暴涨 百亿新弹药已上膛  source: 中金在线
-2016-03-30 15:44:23 WARNING/root, 沪指涨近3%重回3000点  source: 东方财富网
-2016-03-30 15:44:23 WARNING/root, 沪指站上3000点  source: 证券时报网
-2016-03-30 15:44:24 WARNING/root, 国家外汇局杀入A股 子公司买银行股  source: 财经网
-2016-03-30 15:44:26 WARNING/root, 二手房中介玩金融  source: 财新网
-2016-03-30 15:44:26 WARNING/root, 沪指涨近3%重回3000点  source: 东方财富网
-2016-03-30 15:44:26 WARNING/root, 经济现企稳信号 工业企业利润结束下滑  source: 21经济网
-2016-03-30 15:44:26 WARNING/root, 融资租赁全国风险排查收官在即  source: 经济参考网
-2016-03-30 15:44:27 WARNING/root, 耶伦告诉全球市场：谁才是美联储老大  source: 华尔街见闻
-2016-03-30 15:44:27 WARNING/root, “货币战”真的休战了？  source: FT中文网
-2016-03-30 15:44:27 WARNING/root, 国家外汇局杀入A股 子公司买银行股  source: 财经网
-2016-03-30 15:44:30 WARNING/root, 沪指站上3000点  source: 证券时报网
-2016-03-30 15:44:30 WARNING/root, 金融监管机构改革提速 最快或于今夏推出  source: 凤凰财经
-2016-03-30 15:44:31 WARNING/root, 多重利好刺激资金涌入 沪指收复3000点  source: 和讯网
-2016-03-30 15:44:31 WARNING/root, 沪指涨2.77%再上3000  source: 新浪财经
-2016-03-30 15:44:31 WARNING/root, 国务院圈定今年重点工作部门分工 财政部牵头7项  source: 中国财经报网
-2016-03-30 15:44:31 WARNING/root, 五大利好促A股暴涨 百亿新弹药已上膛  source: 中金在线
-2016-03-30 15:44:31 WARNING/root, 中证收评：多利好共振 沪指涨2.77%重返3000点  source: 中证网
-2016-03-30 15:45:31 WARNING/root, 二手房中介玩金融  source: 财新网
-2016-03-30 15:45:31 WARNING/root, 沪指涨近3%重回3000点  source: 东方财富网
-2016-03-30 15:45:32 WARNING/root, 经济现企稳信号 工业企业利润结束下滑  source: 21经济网
-2016-03-30 15:45:32 WARNING/root, 融资租赁全国风险排查收官在即  source: 经济参考网
-2016-03-30 15:45:32 WARNING/root, 耶伦告诉全球市场：谁才是美联储老大  source: 华尔街见闻
-2016-03-30 15:45:32 WARNING/root, “货币战”真的休战了？  source: FT中文网
-2016-03-30 15:45:32 WARNING/root, 国家外汇局杀入A股 子公司买银行股  source: 财经网
-2016-03-30 15:45:35 WARNING/root, 沪指站上3000点  source: 证券时报网
-2016-03-30 15:45:35 WARNING/root, 金融监管机构改革提速 最快或于今夏推出  source: 凤凰财经
-2016-03-30 15:45:35 WARNING/root, 多重利好刺激资金涌入 沪指收复3000点  source: 和讯网
-2016-03-30 15:45:35 WARNING/root, 沪指涨2.77%再上3000  source: 新浪财经
-2016-03-30 15:45:35 WARNING/root, 国务院圈定今年重点工作部门分工 财政部牵头7项  source: 中国财经报网
-2016-03-30 15:45:35 WARNING/root, 五大利好促A股暴涨 百亿新弹药已上膛  source: 中金在线
-2016-03-30 15:45:35 WARNING/root, 中证收评：多利好共振 沪指涨2.77%重返3000点  source: 中证网
-2016-03-30 15:46:36 WARNING/root, 二手房中介玩金融  source: 财新网
-2016-03-30 15:46:36 WARNING/root, 沪指涨近3%重回3000点  source: 东方财富网
-2016-03-30 15:46:36 WARNING/root, 经济现企稳信号 工业企业利润结束下滑  source: 21经济网
-2016-03-30 15:46:37 WARNING/root, 融资租赁全国风险排查收官在即  source: 经济参考网
-2016-03-30 15:46:37 WARNING/root, 耶伦告诉全球市场：谁才是美联储老大  source: 华尔街见闻
-2016-03-30 15:46:37 WARNING/root, “货币战”真的休战了？  source: FT中文网
-2016-03-30 15:46:38 WARNING/root, 国家外汇局杀入A股 子公司买银行股  source: 财经网
-2016-03-30 15:46:39 WARNING/root, 沪指站上3000点  source: 证券时报网
-2016-03-30 15:46:39 WARNING/root, 金融监管机构改革提速 最快或于今夏推出  source: 凤凰财经
-2016-03-30 15:46:39 WARNING/root, 多重利好刺激资金涌入 沪指收复3000点  source: 和讯网
-2016-03-30 15:46:39 WARNING/root, 沪指涨2.77%再上3000  source: 新浪财经
-2016-03-30 15:46:41 WARNING/root, 国务院圈定今年重点工作部门分工 财政部牵头7项  source: 中国财经报网
-2016-03-30 15:46:41 WARNING/root, 五大利好促A股暴涨 百亿新弹药已上膛  source: 中金在线
-2016-03-30 15:46:41 WARNING/root, 中证收评：多利好共振 沪指涨2.77%重返3000点  source: 中证网
-2016-03-30 15:47:42 WARNING/root, 二手房中介玩金融  source: 财新网
-2016-03-30 15:47:42 WARNING/root, 沪指涨近3%重回3000点  source: 东方财富网
-2016-03-30 15:47:42 WARNING/root, 经济现企稳信号 工业企业利润结束下滑  source: 21经济网
-2016-03-30 15:47:43 WARNING/root, 融资租赁全国风险排查收官在即  source: 经济参考网
-2016-03-30 15:47:43 WARNING/root, 耶伦告诉全球市场：谁才是美联储老大  source: 华尔街见闻
-2016-03-30 15:47:43 WARNING/root, “货币战”真的休战了？  source: FT中文网
-2016-03-30 15:47:44 WARNING/root, 国家外汇局杀入A股 子公司买银行股  source: 财经网
-2016-03-30 15:47:44 WARNING/root, 沪指站上3000点  source: 证券时报网
-2016-03-30 15:47:44 WARNING/root, 金融监管机构改革提速 最快或于今夏推出  source: 凤凰财经
-2016-03-30 15:47:45 WARNING/root, 多重利好刺激资金涌入 沪指收复3000点  source: 和讯网
-2016-03-30 15:47:45 WARNING/root, 沪指涨2.77%再上3000  source: 新浪财经
-2016-03-30 15:47:45 WARNING/root, 国务院圈定今年重点工作部门分工 财政部牵头7项  source: 中国财经报网
-2016-03-30 15:47:46 WARNING/root, 五大利好促A股暴涨 百亿新弹药已上膛  source: 中金在线
-2016-03-30 15:47:46 WARNING/root, 中证收评：多利好共振 沪指涨2.77%重返3000点  source: 中证网
-2016-03-30 15:48:47 WARNING/root, 二手房中介玩金融  source: 财新网
-2016-03-30 15:48:47 WARNING/root, 沪指涨近3%重回3000点  source: 东方财富网
-2016-03-30 15:48:47 WARNING/root, 经济现企稳信号 工业企业利润结束下滑  source: 21经济网
-2016-03-30 15:48:47 WARNING/root, 融资租赁全国风险排查收官在即  source: 经济参考网
-2016-03-30 15:48:47 WARNING/root, 耶伦告诉全球市场：谁才是美联储老大  source: 华尔街见闻
-2016-03-30 15:48:48 WARNING/root, “货币战”真的休战了？  source: FT中文网
-2016-03-30 15:48:48 WARNING/root, 国家外汇局杀入A股 子公司买银行股  source: 财经网
-2016-03-30 15:48:48 WARNING/root, 沪指站上3000点  source: 证券时报网
-2016-03-30 15:48:48 WARNING/root, 金融监管机构改革提速 最快或于今夏推出  source: 凤凰财经
-2016-03-30 15:48:49 WARNING/root, 多重利好刺激资金涌入 沪指收复3000点  source: 和讯网
-2016-03-30 15:48:49 WARNING/root, 沪指涨2.77%再上3000  source: 新浪财经
-2016-03-30 15:48:49 WARNING/root, 国务院圈定今年重点工作部门分工 财政部牵头7项  source: 中国财经报网
-2016-03-30 15:48:50 WARNING/root, 五大利好促A股暴涨 百亿新弹药已上膛  source: 中金在线
-2016-03-30 15:48:50 WARNING/root, 中证收评：多利好共振 沪指涨2.77%重返3000点  source: 中证网
-2016-03-30 15:49:51 WARNING/root, 二手房中介玩金融  source: 财新网
-2016-03-30 15:49:51 WARNING/root, 沪指涨近3%重回3000点  source: 东方财富网
-2016-03-30 15:49:51 WARNING/root, 经济现企稳信号 工业企业利润结束下滑  source: 21经济网
-2016-03-30 15:49:51 WARNING/root, 融资租赁全国风险排查收官在即  source: 经济参考网
-2016-03-30 15:49:51 WARNING/root, 耶伦告诉全球市场：谁才是美联储老大  source: 华尔街见闻
-2016-03-30 15:49:52 WARNING/root, “货币战”真的休战了？  source: FT中文网
-2016-03-30 15:49:52 WARNING/root, 国家外汇局杀入A股 子公司买银行股  source: 财经网
-2016-03-30 15:49:53 WARNING/root, 沪指站上3000点  source: 证券时报网
-2016-03-30 15:49:53 WARNING/root, 金融监管机构改革提速 最快或于今夏推出  source: 凤凰财经
-2016-03-30 15:49:53 WARNING/root, 多重利好刺激资金涌入 沪指收复3000点  source: 和讯网
-2016-03-30 15:49:54 WARNING/root, 沪指涨2.77%再上3000  source: 新浪财经
-2016-03-30 15:49:54 WARNING/root, 国务院圈定今年重点工作部门分工 财政部牵头7项  source: 中国财经报网
-2016-03-30 15:49:54 WARNING/root, 五大利好促A股暴涨 百亿新弹药已上膛  source: 中金在线
-2016-03-30 15:49:55 WARNING/root, 中证收评：多利好共振 沪指涨2.77%重返3000点  source: 中证网
-2016-03-30 15:50:55 WARNING/root, 二手房中介玩金融  source: 财新网
-2016-03-30 15:50:56 WARNING/root, 沪指涨近3%重回3000点  source: 东方财富网
-2016-03-30 15:50:56 WARNING/root, 经济现企稳信号 工业企业利润结束下滑  source: 21经济网
-2016-03-30 15:50:56 WARNING/root, 融资租赁全国风险排查收官在即  source: 经济参考网
-2016-03-30 15:50:56 WARNING/root, 耶伦告诉全球市场：谁才是美联储老大  source: 华尔街见闻
-2016-03-30 15:50:56 WARNING/root, “货币战”真的休战了？  source: FT中文网
-2016-03-30 15:50:57 WARNING/root, 国家外汇局杀入A股 子公司买银行股  source: 财经网
-2016-03-30 15:50:57 WARNING/root, 沪指站上3000点  source: 证券时报网
-2016-03-30 15:50:57 WARNING/root, 金融监管机构改革提速 最快或于今夏推出  source: 凤凰财经
-2016-03-30 15:50:57 WARNING/root, 多重利好刺激资金涌入 沪指收复3000点  source: 和讯网
-2016-03-30 15:50:57 WARNING/root, 沪指涨2.77%再上3000  source: 新浪财经
-2016-03-30 15:50:58 WARNING/root, 国务院圈定今年重点工作部门分工 财政部牵头7项  source: 中国财经报网
-2016-03-30 15:50:59 WARNING/root, 两部委:加大对新消费重点领域金融支持  source: 中金在线
-2016-03-30 15:50:59 WARNING/root, 中证收评：多利好共振 沪指涨2.77%重返3000点  source: 中证网
-2016-03-30 15:52:00 WARNING/root, 二手房中介玩金融  source: 财新网
-2016-03-30 15:52:00 WARNING/root, 沪指涨近3%重回3000点  source: 东方财富网
-2016-03-30 15:52:00 WARNING/root, 经济现企稳信号 工业企业利润结束下滑  source: 21经济网
-2016-03-30 15:52:01 WARNING/root, 融资租赁全国风险排查收官在即  source: 经济参考网
-2016-03-30 15:52:01 WARNING/root, 耶伦告诉全球市场：谁才是美联储老大  source: 华尔街见闻
-2016-03-30 15:52:01 WARNING/root, “货币战”真的休战了？  source: FT中文网
-2016-03-30 15:52:02 WARNING/root, 国家外汇局杀入A股 子公司买银行股  source: 财经网
-2016-03-30 15:52:02 WARNING/root, 沪指站上3000点  source: 证券时报网
-2016-03-30 15:52:03 WARNING/root, 金融监管机构改革提速 最快或于今夏推出  source: 凤凰财经
-2016-03-30 15:52:03 WARNING/root, 多重利好刺激资金涌入 沪指收复3000点  source: 和讯网
-2016-03-30 15:52:03 WARNING/root, 沪指涨2.77%再上3000  source: 新浪财经
-2016-03-30 15:52:03 WARNING/root, 国务院圈定今年重点工作部门分工 财政部牵头7项  source: 中国财经报网
-2016-03-30 15:52:03 WARNING/root, 两部委:加大对新消费重点领域金融支持  source: 中金在线
-2016-03-30 15:52:03 WARNING/root, 中证收评：多利好共振 沪指涨2.77%重返3000点  source: 中证网
-2016-03-30 15:53:04 WARNING/root, 二手房中介玩金融  source: 财新网
-2016-03-30 15:53:04 WARNING/root, 沪指涨近3%重回3000点  source: 东方财富网
-2016-03-30 15:53:04 WARNING/root, 经济现企稳信号 工业企业利润结束下滑  source: 21经济网
-2016-03-30 15:53:05 WARNING/root, 融资租赁全国风险排查收官在即  source: 经济参考网
-2016-03-30 15:53:05 WARNING/root, 耶伦告诉全球市场：谁才是美联储老大  source: 华尔街见闻
-2016-03-30 15:53:05 WARNING/root, “货币战”真的休战了？  source: FT中文网
-2016-03-30 15:53:06 WARNING/root, 国家外汇局杀入A股 子公司买银行股  source: 财经网
-2016-03-30 15:53:07 WARNING/root, 沪指站上3000点  source: 证券时报网
-2016-03-30 15:53:07 WARNING/root, 金融监管机构改革提速 最快或于今夏推出  source: 凤凰财经
-2016-03-30 15:53:08 WARNING/root, 多重利好刺激资金涌入 沪指收复3000点  source: 和讯网
-2016-03-30 15:53:08 WARNING/root, 沪指涨2.77%再上3000  source: 新浪财经
-2016-03-30 15:53:08 WARNING/root, 国务院圈定今年重点工作部门分工 财政部牵头7项  source: 中国财经报网
-2016-03-30 15:53:09 WARNING/root, 两部委:加大对新消费重点领域金融支持  source: 中金在线
-2016-03-30 15:53:09 WARNING/root, 中证收评：多利好共振 沪指涨2.77%重返3000点  source: 中证网
-2016-03-30 15:54:09 WARNING/root, 二手房中介玩金融  source: 财新网
-2016-03-30 15:54:10 WARNING/root, 沪指涨近3%重回3000点  source: 东方财富网
-2016-03-30 15:54:10 WARNING/root, 经济现企稳信号 工业企业利润结束下滑  source: 21经济网
-2016-03-30 15:54:10 WARNING/root, 融资租赁全国风险排查收官在即  source: 经济参考网
-2016-03-30 15:54:10 WARNING/root, 耶伦告诉全球市场：谁才是美联储老大  source: 华尔街见闻
-2016-03-30 15:54:10 WARNING/root, “货币战”真的休战了？  source: FT中文网
-2016-03-30 15:54:11 WARNING/root, 国家外汇局杀入A股 子公司买银行股  source: 财经网
-2016-03-30 15:54:11 WARNING/root, 沪指站上3000点  source: 证券时报网
-2016-03-30 15:54:12 WARNING/root, 金融监管机构改革提速 最快或于今夏推出  source: 凤凰财经
-2016-03-30 15:54:12 WARNING/root, 多重利好刺激资金涌入 沪指收复3000点  source: 和讯网
-2016-03-30 15:54:13 WARNING/root, 沪指涨2.77%再上3000  source: 新浪财经
-2016-03-30 15:54:13 WARNING/root, 国务院圈定今年重点工作部门分工 财政部牵头7项  source: 中国财经报网
-2016-03-30 15:54:13 WARNING/root, 两部委:加大对新消费重点领域金融支持  source: 中金在线
-2016-03-30 15:54:14 WARNING/root, 中证收评：多利好共振 沪指涨2.77%重返3000点  source: 中证网
-融资租赁全国风险排查收官在即  source: 经济参考网
-“货币战”真的休战了？  source: FT中文网
-经济现企稳信号 工业企业利润结束下滑  source: 21经济网
-国务院圈定今年重点工作部门分工 财政部牵头7项  source: 中国财经报网
-沪指涨近3%重回3000点  source: 东方财富网
-耶伦告诉全球市场：谁才是美联储老大  source: 华尔街见闻
-Traceback (most recent call last):
-  File "D:\Anaconda3\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 331, in _make_request
-    httplib_response = conn.getresponse(buffering=True)
-TypeError: getresponse() got an unexpected keyword argument 'buffering'
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "D:\Anaconda3\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 333, in _make_request
-    httplib_response = conn.getresponse()
-  File "D:\Anaconda3\lib\http\client.py", line 1172, in getresponse
-    response.begin()
-  File "D:\Anaconda3\lib\http\client.py", line 351, in begin
-    version, status, reason = self._read_status()
-  File "D:\Anaconda3\lib\http\client.py", line 313, in _read_status
-    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
-  File "D:\Anaconda3\lib\socket.py", line 371, in readinto
-    return self._sock.recv_into(b)
-socket.timeout: timed out
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "D:\Anaconda3\lib\site-packages\requests\adapters.py", line 362, in send
-    timeout=timeout
-  File "D:\Anaconda3\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 559, in urlopen
-    _pool=self, _stacktrace=stacktrace)
-  File "D:\Anaconda3\lib\site-packages\requests\packages\urllib3\util\retry.py", line 245, in increment
-    raise six.reraise(type(error), error, _stacktrace)
-  File "D:\Anaconda3\lib\site-packages\requests\packages\urllib3\packages\six.py", line 310, in reraise
-    raise value
-  File "D:\Anaconda3\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 516, in urlopen
-    body=body, headers=headers)
-  File "D:\Anaconda3\lib\site-packages\requests\packages\urllib3\connectionpool.py", line 336, in _make_request
-    self, url, "Read timed out. (read timeout=%s)" % read_timeout)
-requests.packages.urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='www.cs.com.cn', port=80): Read timed out. (read timeout=5)
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 50, in <module>
-    epoch(Setting.REFRESH_INTERVAL)
-  File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 47, in epoch
-    crawl(sites[HeadlineSourceID], my_spider, HeadlineSourceID)
-  File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 29, in crawl
+2016-04-01 13:25:43 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 13:25:43 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
     headline = spider.crawl_link_page_xpath(site, headline)
-  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 21, in crawl_link_page_xpath
-    html = self.baseCrawler.html_download(site["url"], site["charset"])
-  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\lib\common.py", line 18, in html_download
-    r = requests.get(url, timeout=Setting.REQUEST_TIMEOUT)
-  File "D:\Anaconda3\lib\site-packages\requests\api.py", line 59, in get
-    return request('get', url, **kwargs)
-  File "D:\Anaconda3\lib\site-packages\requests\api.py", line 48, in request
-    return session.request(method=method, url=url, **kwargs)
-  File "D:\Anaconda3\lib\site-packages\requests\sessions.py", line 451, in request
-    resp = self.send(prep, **send_kwargs)
-  File "D:\Anaconda3\lib\site-packages\requests\sessions.py", line 557, in send
-    r = adapter.send(request, **kwargs)
-  File "D:\Anaconda3\lib\site-packages\requests\adapters.py", line 422, in send
-    raise ReadTimeout(e, request=request)
-requests.exceptions.ReadTimeout: HTTPConnectionPool(host='www.cs.com.cn', port=80): Read timed out. (read timeout=5)
 
-Process finished with exit code 1
+2016-04-01 13:41:19 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 13:41:19 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    headline = spider.crawl_link_page_xpath(site, headline)
+
+2016-04-01 13:42:42 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 13:42:42 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    headline = spider.crawl_link_page_xpath(site, headline)
+
+2016-04-01 13:44:14 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 13:44:14 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    headline = spider.crawl_link_page_xpath(site, headline)
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 24, in crawl_link_page_xpath
+    raise ERROR.MatchError
+
+2016-04-01 13:45:37 CRITICAL/root, Xpath or Regex Error: id - 1
+2016-04-01 13:45:37 CRITICAL/root,   File "D:/workspace/headlines/fin-headline-crawler/HeadlineCrawler/main.py", line 30, in crawl
+    headline = spider.crawl_link_page_xpath(site, headline)
+  File "D:\workspace\headlines\fin-headline-crawler\HeadlineCrawler\spiders\baseSpider.py", line 24, in crawl_link_page_xpath
+    raise ERROR.MatchError
+

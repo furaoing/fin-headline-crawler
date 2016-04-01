@@ -8,6 +8,7 @@ from HeadlineCrawler.lib import ERROR
 import time
 import traceback
 import logging
+import sys
 
 
 if __name__ == "__main__":
@@ -27,17 +28,26 @@ if __name__ == "__main__":
                 headline = spider.crawl_link_page_regex(site, headline)
             else:
                 headline = spider.crawl_link_page_xpath(site, headline)
-            print(headline.title+"  source: " + headline.source)
+            print(headline.title + "  source: " + headline.source)
             return headline
         except ERROR.TimeoutError as e:
             logging.critical("Http Request Timeout: id - " + HeadlineSourceID)
-            logging.critical(traceback.print_exc())
+            exc_type, exc_value, exc_traceback = sys.exc_info()
+            traceback_str = "".join(traceback.format_tb(exc_traceback))
+            logging.critical(traceback_str)
+            traceback.print_exc()
         except ERROR.MatchError as e:
             logging.critical("Xpath or Regex Error: id - " + HeadlineSourceID)
-            logging.critical(traceback.print_exc())
-        except ERROR.GeneralError as e:
-            logging.critical("Other Error: id - " + HeadlineSourceID)
-            logging.critical(traceback.print_exc())
+            exc_type, exc_value, exc_traceback = sys.exc_info()
+            traceback_str = "".join(traceback.format_tb(exc_traceback))
+            logging.critical(traceback_str)
+            traceback.print_exc()
+        except BaseException as e:
+            logging.critical("Undefined Exception: id - " + HeadlineSourceID)
+            exc_type, exc_value, exc_traceback = sys.exc_info()
+            traceback_str = "".join(traceback.format_tb(exc_traceback))
+            logging.critical(traceback_str)
+            traceback.print_exc()
 
     def epoch(interval):
         sites = load_sites()
