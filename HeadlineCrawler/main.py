@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from TaikorCommon.util.util import TimeFormater
+from waffle.util.util import TimeFormater
 
 from HeadlineCrawler.spiders.baseSpider import spider
 from HeadlineCrawler.conf.loadSite import load_sites

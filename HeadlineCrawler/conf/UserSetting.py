@@ -5,7 +5,7 @@ Created on Tue Mar 29 15:14:48 2016
 @author: roy
 """
 
-from TaikorCommon import system
+from waffle import system
 
 
 class Setting(object):

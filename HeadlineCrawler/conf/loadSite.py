@@ -5,7 +5,7 @@ Created on Tue Mar 29 14:37:36 2016
 @author: roy
 """
 
-from TaikorCommon import system
+from waffle import system
 from HeadlineCrawler.conf.UserSetting import Setting
 
 
